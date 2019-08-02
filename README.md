@@ -9,7 +9,7 @@ file_name.txt contains the numbers (1 number on every line)
 test_calc.py contains the unit tests
 
 Run the following command on terminal to see the unit tests, passes 6 tests
-python -m unittest test_calc.py
+  python -m unittest test_calc.py
 
 Running pylint on the codingtest.py gives 10/10
 
