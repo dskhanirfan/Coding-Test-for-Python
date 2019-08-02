@@ -1,5 +1,8 @@
 # CodingTest
 
+Estimated time: 1:30 hours
+Actual time: 2:20 hours 
+
 CodingTest_Python_201906.pdf contains the test description
 codingtest.py contains the python code file
 file_name.txt contains the numbers (1 number on every line)
