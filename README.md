@@ -14,7 +14,7 @@ Run the following command on terminal to see the unit tests, passes 6 tests
 
 Running pylint on the codingtest.py gives 10/10
 
-bash-3.2$ pylint codingtest.py
+     bash-3.2$ pylint codingtest.py
 
 --------------------------------------------------------------------
 Your code has been rated at 10.00/10 (previous run: 10.00/10, +0.00)
